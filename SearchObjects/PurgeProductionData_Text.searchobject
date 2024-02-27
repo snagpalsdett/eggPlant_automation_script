@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		503,
+		153,
+		215,
+		28
+	],
+	"lastmodifieddate": 1708601212.6989999,
+	"createddate": 1708601212.6989999,
+	"name": "PurgeProductionData_Text",
+	"lastfounddate": 1708685219.3710001,
+	"ocrcapturestring": "Purge Production Data",
+	"lastfoundlocation": [
+		503,
+		153,
+		215,
+		28
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[107,14]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "PurgeProductionData_Text.png",
+				"connectionname": "10.116.2.125",
+				"type": 1,
+				"connectionserverid": "10.116.2.125",
+				"capturerect": [
+					503,
+					153,
+					215,
+					28
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Purge Production Data"
+			}
+	]
+}

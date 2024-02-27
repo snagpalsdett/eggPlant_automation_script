@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		287,
+		284,
+		95,
+		14
+	],
+	"lastmodifieddate": 1708600821.7189999,
+	"createddate": 1708600821.7189999,
+	"name": "Administration",
+	"lastfounddate": 1709038455.5739999,
+	"ocrcapturestring": "Administration",
+	"lastfoundlocation": [
+		287,
+		284,
+		95,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[25,7]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Administration.png",
+				"connectionname": "10.116.2.125",
+				"type": 1,
+				"connectionserverid": "10.116.2.125",
+				"capturerect": [
+					287,
+					284,
+					95,
+					14
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Administration"
+			}
+	]
+}

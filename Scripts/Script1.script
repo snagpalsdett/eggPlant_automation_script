@@ -1,0 +1,11 @@
+﻿"Guardian_Icon"
+DoubleClick "Icon_Guardian"
+TypeText qa
+Click "LogIn"
+DoubleClick "Administration"
+Click "PurgeProductionData"
+if imageFound("PurgeProductionDataWARNING") then
+	log "You are at Purge Production Data"
+else
+	log "Check your script"
+end if

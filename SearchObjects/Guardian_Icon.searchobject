@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		0,
+		104,
+		81,
+		108
+	],
+	"lastmodifieddate": 1708598463.411,
+	"createddate": 1708598463.411,
+	"name": "Guardian_Icon",
+	"lastfounddate": 1708598518.142,
+	"ocrcapturestring": "& Guardian SPT Configuratio n Manager",
+	"lastfoundlocation": [
+		0,
+		104,
+		81,
+		108
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[44,44]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Guardian_Icon.png",
+				"connectionname": "10.116.2.125",
+				"type": 1,
+				"connectionserverid": "10.116.2.125",
+				"capturerect": [
+					0,
+					104,
+					81,
+					108
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "& Guardian SPT Configuratio n Manager"
+			}
+	]
+}

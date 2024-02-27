@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Script1">
+ <run>
+  <RunDate>2024-02-22 16:29:26.346 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240222_162926.346/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in script1:
+Syntax Error at line 1: can&#x27;t understand [end of line] at character 16</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-02-22 16:43:33.427 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.014000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240222_164333.427/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in script1:
+Syntax Error at line 1: can&#x27;t understand [end of line] at character 16</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-02-22 16:43:44.008 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.020000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240222_164344.008/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in script1:
+Syntax Error at line 1: can&#x27;t understand [end of line] at character 16</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-02-22 17:01:31.697 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.015000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240222_170131.697/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in script1:
+Syntax Error at line 1: can&#x27;t understand [end of line] at character 16</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-02-22 17:06:28.568 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240222_170628.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in script1:
+Syntax Error at line 1: can&#x27;t understand [end of line] at character 16</ErrorMessage>
+ </run>
+</runHistory>

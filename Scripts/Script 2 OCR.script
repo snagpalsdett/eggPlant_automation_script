@@ -1,0 +1,17 @@
+﻿DoubleClick "Icon_Guardian"
+TypeText qa
+
+Click "LogIn"
+put empty into the SearchRectangle
+DoubleClick "Administration"
+Click "PurgeProductionData"
+
+Set the SearchRectangle to [498,150,1157,308]
+
+if ImageFound(text:"Purge Production Data")  then
+	Log "Expected text found within the specified rectangle."
+else
+	LogError "Expected text not found within the specified rectangle."
+end if
+
+Set the SearchRectangle to empty

@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-02-22 16:29:26.346 +0530,"Failure",0:00:00,1,0,0,"20240222_162926.346/LogFile.txt","","SenseTalk Compiler Exception -- in script1:\nSyntax Error at line 1: can't understand [end of line] at character 16",0
+2024-02-22 16:43:33.427 +0530,"Failure",0:00:00,1,0,0,"20240222_164333.427/LogFile.txt","","SenseTalk Compiler Exception -- in script1:\nSyntax Error at line 1: can't understand [end of line] at character 16",0
+2024-02-22 16:43:44.008 +0530,"Failure",0:00:00,1,0,0,"20240222_164344.008/LogFile.txt","","SenseTalk Compiler Exception -- in script1:\nSyntax Error at line 1: can't understand [end of line] at character 16",0
+2024-02-22 17:01:31.697 +0530,"Failure",0:00:00,1,0,0,"20240222_170131.697/LogFile.txt","","SenseTalk Compiler Exception -- in script1:\nSyntax Error at line 1: can't understand [end of line] at character 16",0
+2024-02-22 17:06:28.568 +0530,"Failure",0:00:00,1,0,0,"20240222_170628.568/LogFile.txt","","SenseTalk Compiler Exception -- in script1:\nSyntax Error at line 1: can't understand [end of line] at character 16",0

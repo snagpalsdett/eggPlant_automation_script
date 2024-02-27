@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		682,
+		437,
+		73,
+		23
+	],
+	"lastmodifieddate": 1708600631.9260001,
+	"createddate": 1708600631.9260001,
+	"name": "LogIn",
+	"lastfounddate": 1709038454.3940001,
+	"ocrcapturestring": "Log In",
+	"lastfoundlocation": [
+		682,
+		437,
+		73,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[17,15]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "LogIn.png",
+				"connectionname": "10.116.2.125",
+				"type": 1,
+				"connectionserverid": "10.116.2.125",
+				"capturerect": [
+					682,
+					437,
+					73,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Log In"
+			}
+	]
+}

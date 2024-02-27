@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Script1.script",
+				"identifier": "START",
+				"timestamp": "2024-02-22 17:06:28.575 +0530"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-02-22 17:06:28 +0530\", Successes:\"0\", TestCase:\"Script1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-02-22 17:06:28.582 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in script1:\\nSyntax Error at line 1: can't understand [end of line] at character 16 -- Execution Time 0:00:00 Script1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-02-22 17:06:28.773 +0530"
+			}
+	],
+	"createdTimestamp": "2024-02-22 17:06:28.580 +0530"
+}
